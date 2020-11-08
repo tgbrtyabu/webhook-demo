@@ -1,1 +1,2 @@
-This is a demo file for test.
+Environment: QACAND
+Script: ant -f ./sfv4client.xml migrate -Dargs=" -c ICPATCHPREVH"
